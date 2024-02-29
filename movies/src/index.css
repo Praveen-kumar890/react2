@@ -1,0 +1,11 @@
+
+.movies
+{
+  display: flex;
+  gap: 20px;
+}
+.movie
+{
+  
+  box-shadow: 10px,10px,10px black;
+}
